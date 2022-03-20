@@ -1,0 +1,41 @@
+.cart_icon i{
+    position: absolute;
+    top:90px;
+    right: 600px;;
+    background-color: white;
+    border:1pxs solid black;
+    border-radius: 50%;
+    padding:4px 10px;
+    font-weight: 800;
+    font-size: 100px;
+}
+/* .cart_icon i{
+    
+    
+    font-weight: 800;
+    font-size: 100px;
+} */
+p{
+    font-style: verdana;
+}
+/* .cart_icon p{
+    position: absolute;
+    top:350px;
+    right: 500px;;
+    background-color: white;
+    border:1pxs solid rgb(245, 29, 0);
+    border-radius: 50%;
+    padding:4px 10px;
+    font-weight: 800;
+    font-size: 100px;
+} */
+.cart_icon p{
+   
+   
+    text-align: left;
+   
+   
+    font-weight: 400;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+}
